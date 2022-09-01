@@ -1,3 +1,3 @@
 # Assignment Concept
 
-[click me](https://github.com/nlkx/assignment_concept/wiki)
+[click me to see more](https://github.com/nlkx/assignment_concept/wiki)
