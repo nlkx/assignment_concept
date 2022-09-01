@@ -1,3 +1,3 @@
 # Assignment Concept
 
-Please navigate to wiki to see some photos. 
+[click me](https://github.com/nlkx/assignment_concept/wiki)
